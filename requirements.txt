@@ -1,0 +1,11 @@
+torch>=2.2.0
+sentencepiece>=0.1.99
+datasets>=2.19.0
+sacrebleu>=2.4.0
+numpy>=1.26.0
+tqdm>=4.66.0
+fastapi>=0.115.0
+uvicorn[standard]>=0.30.0
+onnx>=1.16.0
+onnxruntime-gpu>=1.18.0
+pydantic>=2.8.0
